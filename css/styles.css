@@ -1,0 +1,39 @@
+body{
+    background-color: rgb(202, 214, 238);
+}
+.Qr{
+    background-color: white;
+    height: 500px;
+    width: 24%;
+    border-radius: 4%;
+    margin-top: 80px;
+    margin-left: 500px;
+    
+ 
+}
+.image1{
+    height: 300px;
+    border-radius: 4%;
+    position: relative;
+    margin-top: 14px;
+    margin-left: 12px;
+    
+    
+
+   
+}
+.text{
+    font-size: 20px;
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-decoration: solid;
+    font-weight: bold;
+    position: relative;
+    color: rgb(25, 36, 63);
+    
+}
+.text2{
+    position: relative;
+    text-align: center;
+    color: rgb(164, 183, 221);
+}
